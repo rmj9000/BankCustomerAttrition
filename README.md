@@ -6,20 +6,64 @@
 
 ## Navigation:
 * [ETL Pipeline](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/01_etl.ipynb)
+* [Exploratory Data Analysis](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/02_eda.ipynb)
+* [Heat map](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/03_heatmap.ipynb)
 * [Raw Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/raw/bank_customer_attrition_insights_data.csv)
+* [Cleaned Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/cleaned_bank_data.csv)
 
 
 ## Dataset Content
 * The data is sourced from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and contains many routes of inquiry for why customers at banks attrite. 
 
+## Contributers
+* Project Manager - [Ronnie](https://github.com/rmj9000) 
+* Data Architect - [Kabira Sharpe](https://github.com/ksharpe-byte)
+* Data Analyst - [Jane Weightman](https://github.com/Janeweightman)
+* Data Analyst - [Shema Rahman](https://github.com/Shema774)
+
 ## Business Requirements
 According to the finance publication [The Financial Brand](https://thefinancialbrand.com/news/bank-onboarding/the-churn-challenge-four-big-ideas-for-banks-and-credit-unions-looking-to-drive-down-attrition-182528) banks struggle with a 15% attrition rate. Losing customers results in financial damage, and banks should seek to retain as large of a share of customers as they can. Analysing the trends in customer attrition can allow banks to make data informed decisions on building new strategies to increase their customer retention. 
 
 
-## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+## Hypotheses
+### Hypothesis 1: Customers who earn fewer reward points are more likely to attrite.
+Reward points often reflect transaction activity and customer engagement. If customers earning fewer points are more likely to leave, it suggests that low engagement is a key driver of attrition. This insight could help the bank identify disengaged customers early and design targeted retention strategies.
+
+#### How we plan to validate:
+
+*Points Earned vs. Attrition*
+* T-test: Compares the means of two groups (e.g., attrited vs. existing customers). Assumes normal distribution.
+* Mann-Whitney U test: Non-parametric alternative to the t-test. Compares medians and ranks — useful when data isn’t normally distributed.
+
+
+### Hypothesis 2: Credit card customers with lower credit scores are more likely to attrite.
+Lower credit scores may indicate financial instability or limited access to banking services. These customers might leave voluntarily due to dissatisfaction or be targeted for closure by the bank. Understanding this relationship can guide credit policy and customer support strategies.
+
+#### How we plan to validate:
+
+*Credit Score vs. Attrition*
+* Correlation analysis: Measures the strength and direction of association between two variables (e.g., credit score and attrition flag).
+* Logistic regression: A predictive statistical model that estimates the probability of a binary outcome (e.g., attrition) based on one or more predictors (e.g., credit score).
+
+
+### Hypothesis 3: Customers with shorter tenure at the bank are more likely to attrite.
+We suspect that some customers will hop from bank to bank to take adantage of signup bonuses. Furthermore, if newer customers are more prone to leaving, it may signal issues with onboarding, early experience, or unmet expectations. This insight is crucial for improving customer retention strategies during the first few months of engagement
+
+#### How we plan to validate:
+
+*Tenure vs. Attrition*
+* T-test / Mann-Whitney U test: Again, used to compare tenure between groups.
+* Histograms / Boxplots: While visualisations themselves aren’t statistical tests, they support statistical interpretation by showing distribution patterns.
+
+
+
 
 ## Project Plan
+**To aid in planning we used a [Github project board](https://github.com/users/rmj9000/projects/8/views/1)**
+![project board](images/projectplanhackathon.png)
+
+* Using a project board allowed us to assisgn tasks to each team member in an organised manner
+
 * Outline the high-level steps taken for the analysis.
 * How was the data managed throughout the collection, processing, analysis and interpretation steps?
 * Why did you choose the research methodologies you used?
