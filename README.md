@@ -70,8 +70,7 @@ According to the finance publication [The Financial Brand](https://thefinancialb
 
 ### Media
 
-- The photos used on the home and sign-up page are from This Open-Source site
-- The images used for the gallery page were taken from this other open-source site
+- Banner image was made using [Canva](https://www.canva.com/) 
 
 
 
