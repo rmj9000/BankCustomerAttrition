@@ -1,8 +1,8 @@
 # Bank Customer Attrition Analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Bank Customer Attrition Analysis** is a group project with the aim of identifying reasons why bank customers leave. Our aim to help banks increase their customer retention rates by exploring the reasons and factors that result in customer loss. 
 
-# ![CI logo](images/bannerimagehackathon.png)
+# ![Banner image](images/bannerimagehackathon.png)
 
 
 ## Dataset Content
