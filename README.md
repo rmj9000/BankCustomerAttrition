@@ -8,6 +8,7 @@
 * [ETL Pipeline](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/01_etl.ipynb)
 * [Exploratory Data Analysis](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/02_eda.ipynb)
 * [Heat map](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/03_heatmap.ipynb)
+* [Hypothesis Testing](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/04_hypothesis-testing.ipynb)
 * [Raw Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/raw/bank_customer_attrition_insights_data.csv)
 * [Cleaned Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/cleaned_bank_data.csv)
 
@@ -16,6 +17,8 @@
 * The data is sourced from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and contains many routes of inquiry for why customers at banks attrite. 
 
 ## Contributers
+### Team name : *The Pandas*
+### Team members
 * Project Manager - [Ronnie](https://github.com/rmj9000) 
 * Data Architect - [Kabira Sharpe](https://github.com/ksharpe-byte)
 * Data Analyst - [Jane Weightman](https://github.com/Janeweightman)
