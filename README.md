@@ -25,8 +25,18 @@
 According to the finance publication [The Financial Brand](https://thefinancialbrand.com/news/bank-onboarding/the-churn-challenge-four-big-ideas-for-banks-and-credit-unions-looking-to-drive-down-attrition-182528) banks struggle with a 15% attrition rate. Losing customers results in financial damage, and banks should seek to retain as large of a share of customers as they can. Analysing the trends in customer attrition can allow banks to make data informed decisions on building new strategies to increase their customer retention. 
 
 
-## Hypothesis and how to validate?
-* List here your project hypothesis(es) and how you envision validating it (them) 
+## Hypotheses
+### Hypothesis 1: Customers who earn fewer reward points are more likely to attrite.
+Reward points often reflect transaction activity and customer engagement. If customers earning fewer points are more likely to leave, it suggests that low engagement is a key driver of attrition. This insight could help the bank identify disengaged customers early and design targeted retention strategies.
+
+### Hypothesis 2: Credit card customers with lower credit scores are more likely to attrite.
+Lower credit scores may indicate financial instability or limited access to banking services. These customers might leave voluntarily due to dissatisfaction or be targeted for closure by the bank. Understanding this relationship can guide credit policy and customer support strategies.
+
+### Hypothesis 3: Customers with shorter tenure at the bank are more likely to attrite.
+We suspect that some customers will hop from bank to bank to take adantage of signup bonuses. Furthermore, if newer customers are more prone to leaving, it may signal issues with onboarding, early experience, or unmet expectations. This insight is crucial for improving customer retention strategies during the first few months of engagement
+
+
+
 
 ## Project Plan
 **To aid in planning we used a [Github project board](https://github.com/users/rmj9000/projects/8/views/1)**
