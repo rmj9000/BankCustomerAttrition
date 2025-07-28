@@ -10,4 +10,4 @@ cloudinary_python.txt
 kaggle.json
 .venv/
 # Generated Tableau data files
-hyp*_tableau.csv
+data/outputs/hyp*_tableau.csv
