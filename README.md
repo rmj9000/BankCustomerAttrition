@@ -29,11 +29,31 @@ According to the finance publication [The Financial Brand](https://thefinancialb
 ### Hypothesis 1: Customers who earn fewer reward points are more likely to attrite.
 Reward points often reflect transaction activity and customer engagement. If customers earning fewer points are more likely to leave, it suggests that low engagement is a key driver of attrition. This insight could help the bank identify disengaged customers early and design targeted retention strategies.
 
+#### How we plan to validate:
+
+*Points Earned vs. Attrition*
+* T-test: Compares the means of two groups (e.g., attrited vs. existing customers). Assumes normal distribution.
+* Mann-Whitney U test: Non-parametric alternative to the t-test. Compares medians and ranks — useful when data isn’t normally distributed.
+
+
 ### Hypothesis 2: Credit card customers with lower credit scores are more likely to attrite.
 Lower credit scores may indicate financial instability or limited access to banking services. These customers might leave voluntarily due to dissatisfaction or be targeted for closure by the bank. Understanding this relationship can guide credit policy and customer support strategies.
 
+#### How we plan to validate:
+
+*Credit Score vs. Attrition*
+* Correlation analysis: Measures the strength and direction of association between two variables (e.g., credit score and attrition flag).
+* Logistic regression: A predictive statistical model that estimates the probability of a binary outcome (e.g., attrition) based on one or more predictors (e.g., credit score).
+
+
 ### Hypothesis 3: Customers with shorter tenure at the bank are more likely to attrite.
 We suspect that some customers will hop from bank to bank to take adantage of signup bonuses. Furthermore, if newer customers are more prone to leaving, it may signal issues with onboarding, early experience, or unmet expectations. This insight is crucial for improving customer retention strategies during the first few months of engagement
+
+#### How we plan to validate:
+
+*Tenure vs. Attrition*
+* T-test / Mann-Whitney U test: Again, used to compare tenure between groups.
+* Histograms / Boxplots: While visualisations themselves aren’t statistical tests, they support statistical interpretation by showing distribution patterns.
 
 
 
