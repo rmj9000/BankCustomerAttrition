@@ -1,16 +1,15 @@
 # Bank Customer Attrition Analysis
 
-**Project XYZ** is a comprehensive data analysis tool designed to streamline data exploration, analysis, and visualisation. The tool supports multiple data formats and provides an intuitive interface for both novice and expert data scientists.
+**Bank Customer Attrition Analysis** is a group project with the aim of identifying reasons why bank customers leave. Our aim to help banks increase their customer retention rates by exploring the reasons and factors that result in customer loss. 
 
-# ![CI logo](images/bannerimagehackathon.png)
+# ![Banner image](images/bannerimagehackathon.png)
 
 
 ## Dataset Content
-* Describe your dataset. Choose a dataset of reasonable size to avoid exceeding the repository's maximum size of 100Gb.
-
+* The data is sourced from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and contains many routes of inquiry for why customers at banks attrite. 
 
 ## Business Requirements
-* Describe your business requirements
+According to the finance publication [The Financial Brand](https://thefinancialbrand.com/news/bank-onboarding/the-churn-challenge-four-big-ideas-for-banks-and-credit-unions-looking-to-drive-down-attrition-182528) banks struggle with a 15% attrition rate. Losing customers results in financial damage, and banks should seek to retain as large of a share of customers as they can. Analysing the trends in customer attrition can allow banks to make data informed decisions on building new strategies to increase their customer retention. 
 
 
 ## Hypothesis and how to validate?
