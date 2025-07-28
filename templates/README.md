@@ -1,14 +1,4 @@
-## Data set information
-
-Data set is from Kaggle
-https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights
-
-File renamed from:
-Bank-Customer-Attrition-Insights-Data.csv
-
-to
-bank_customer_attrition_insights_data.csv
-
+# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 ## Template Instructions
 
@@ -80,6 +70,3 @@ Note that the kernel says `Python 3.12.8` as it inherits from the venv, so it wi
 4. Select the branch you want to deploy, then click **Deploy Branch**.
 5. The deployment process should happen smoothly if all deployment files are fully functional. Click the button **Open App** at the top of the page to access your App.
 6. If the slug size is too large, then add large files not required for the app to the `.slugignore` file.
-
-
-# ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
