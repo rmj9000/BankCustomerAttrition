@@ -34,8 +34,8 @@ According to the finance publication [The Financial Brand](https://thefinancialb
 * How did you use generative AI tools to help with ideation, design thinking and code optimisation?
 
 ## Ethical considerations
-* Were there any data privacy, bias or fairness issues with the data?
-* How did you overcome any legal or societal issues?
+* Financial data is highly sensitive and those working with such data have to ensure they are compliant with laws such as the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents).
+* To ensure data privacy we removed the 'Surnames' column of the dataset, as it contains personally identifiable information. 
 
 ## Dashboard Design
 * List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
