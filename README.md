@@ -10,7 +10,7 @@
 * [03: Heat Map](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/03_heatmap.ipynb)
 * [04: Hypothesis Testing](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/04_hypothesis-testing.ipynb)
 * [05: Data Transformation for Tableau](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/05_tableau-data.ipynb)
-* [06: Tableau Dashboard](link to be added soon)
+* [06: Tableau Dashboard](https://public.tableau.com/shared/GMW47YQH9?:display_count=n&:origin=viz_share_link)
 * [07: Raw Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/raw/bank_customer_attrition_insights_data.csv)
 * [08: Cleaned Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/cleaned_bank_data.csv)
 
