@@ -147,5 +147,5 @@ Images were collated at the final story tab for ease of comparison.
 
 
 
-## Acknowledgements (optional)
+## Acknowledgements
 * A special thanks to all the tutors at Code Insitute and to all our class mates! We wish everyone the best following our final Code Institute project. 
