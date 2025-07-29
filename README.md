@@ -66,16 +66,19 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 **For the first hypothesis we used a T test.**
 
  ![hypothesis1test](images/hypothesis1test.png)
+
  With a T-Statistic of -0.46 and P-Value of 0.64 we fail to reject the null hypothesis, therefore we must conclude that fewer customer reward points does not result in higher rates of attrition. 
  ### H2: Credit card customers with lower credit scores are more likely to attrite
  **For the second hypothesis we used a Pearsons Correlation.**
 
  ![hypothesis2test](images/hypothesis2test.png)
- The correlation coefficent is is -0.0268 which indicates there is a weak negative correlation between Credit Score and Exited variables. With a P-Value of 0.007 which indicates the result is statistically significant. We must reject the null hypothesis and accept that credit score is a factor in attrition rate. 
+
+ The correlation coefficent is -0.0268 which indicates there is a weak negative correlation between Credit Score and Exited variables. With a P-Value of 0.007 which indicates the result is statistically significant. We must reject the null hypothesis and accept that credit score is a factor in attrition rate. 
 
  ### H3: Customers with shorter tenure at the bank are more likely to attrite
  **For Hypothesis 3 we used a Mann-Whitney U Test.**
  ![hypothesi3test](images/hypothesis3test.png)
+ 
  The U-Statistic is 7955556.0, which suggests the two groups overlap significantly meaning there is little difference between them. The P-Value is 0.1729 which greater than the significance level. Indidcating the observed difference between Tenure and Attrition is not statistically significant. Thus we fail to reject the null hypothesis as there is no statistical significance.
 
 
