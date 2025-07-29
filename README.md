@@ -19,8 +19,8 @@
 * The data is sourced from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and contains many routes of inquiry for why customers at banks attrite. 
 
 ## Contributers
-### Team name : *The Pandas*
-### Team members
+
+
 * Project Manager - [Ronnie](https://github.com/rmj9000) 
 * Data Architect - [Kabira Sharpe](https://github.com/ksharpe-byte)
 * Data Analyst - [Jane Weightman](https://github.com/Janeweightman)
