@@ -77,7 +77,7 @@ We suspect that some customers will hop from bank to bank to take adantage of si
  ### H3: Customers with shorter tenure at the bank are more likely to attrite
  **For Hypothesis 3 we used a Mann-Whitney U Test.**
  ![hypothesi3test](images/hypothesis3test.png)
- 
+
  The U-Statistic is 7955556.0, which suggests the two groups overlap significantly meaning there is little difference between them. The P-Value is 0.1729 which greater than the significance level. Indidcating the observed difference between Tenure and Attrition is not statistically significant. Thus we fail to reject the null hypothesis as there is no statistical significance.
 
 
@@ -118,8 +118,7 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
 
 ## Development Roadmap
-* What challenges did you face, and what strategies were used to overcome these challenges?
-* What new skills or tools do you plan to learn next based on your project experience? 
+* We had issues with data types in Tableau for the exited variable, we had to change the data type to string manually in Tableau as it was incorrectly categoried as an integer. 
 
 
 ## Main Data Analysis Libraries
@@ -135,11 +134,7 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
 * You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
-### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
