@@ -80,6 +80,11 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
  The U-Statistic is 7955556.0, which suggests the two groups overlap significantly meaning there is little difference between them. The P-Value is 0.1729 which greater than the significance level. Indidcating the observed difference between Tenure and Attrition is not statistically significant. Thus we fail to reject the null hypothesis as there is no statistical significance.
 
+## Recommendations
+
+Only hypothesis 2 'credit card customers with lower credit scores are more likely to attrite' generated statististically significant results. One practical approach is to have more stringent checks on credit risk before giving customers access to credit cards. If you prevent high risk individuals from getting credit cards with your banks, this could result them being less likely to attrite. 
+
+Another practical sollution could be to implement machine learning in banking apps that flag if an indiviuals credit score is getting too low, and give that individual practical financial advice to stop their credit score falling.
 
 
 
