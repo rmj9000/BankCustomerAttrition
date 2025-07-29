@@ -93,8 +93,6 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * How was the data managed throughout the collection, processing, analysis and interpretation steps?
 * Why did you choose the research methodologies you used?
 
-## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
@@ -107,15 +105,20 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * To ensure data privacy we removed the 'Surnames' column of the dataset, as it contains personally identifiable information. 
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+**The Dashboard can be found [here](https://public.tableau.com/app/profile/shema.rahman/viz/shared/GMW47YQH9)**.
 
-## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+![Story board format](images/storyboard.png)
+
+Storyboard format was used for effective interactive story telling. 
+
+![filters](images/filterhackathon.png)
+
+Filters were used to enhave user interactivity. 
+
+![dashboard](images/dashboard.png)
+
+Images were collated at the final story tab for ease of comparison. 
+
 
 ## Development Roadmap
 * We had issues with data types in Tableau for the exited variable, we had to change the data type to string manually in Tableau as it was incorrectly categoried as an integer. 
