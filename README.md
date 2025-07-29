@@ -105,10 +105,19 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * To ensure data privacy we removed the 'Surnames' column of the dataset, as it contains personally identifiable information. 
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+**The Dashboard can be found [here](https://public.tableau.com/app/profile/shema.rahman/viz/shared/GMW47YQH9)**.
+
+![Story board format](images/storyboard.png)
+
+Storyboard format was used for effective interactive story telling. 
+
+![filters](images/filterhackathon.png)
+
+Filters were used to enhave user interactivity. 
+
+![dashboard](images/dashboard.png)
+
+Images were collated at the final story tab for ease of comparison. 
 
 
 ## Development Roadmap
