@@ -86,12 +86,8 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 ## Project Plan
 **To aid in planning we used a [Github project board](https://github.com/users/rmj9000/projects/8/views/1)**
 ![project board](images/projectplanhackathon.png)
-
 * Using a project board allowed us to assisgn tasks to each team member in an organised manner
-
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
+* Regular meetings on Microsoft teams were used to ensure effective communication
 
 
 ## Analysis techniques used
