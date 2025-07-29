@@ -103,7 +103,11 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
 
 ## Main Data Analysis Libraries
-* Here you should list the libraries you used in the project and provide an example(s) of how you used these libraries.
+* **Numpy**: For all Jupyter notebooks
+* **Pandas**: For all Jupyter notebooks
+* **Matplotlib**: For visualisations
+* **Seaborn**: For visualisations
+* **Scipy**: For hypothesis testing
 
 
 ## Credits 
