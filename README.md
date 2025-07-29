@@ -10,7 +10,7 @@
 * [03: Heat Map](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/03_heatmap.ipynb)
 * [04: Hypothesis Testing](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/04_hypothesis-testing.ipynb)
 * [05: Data Transformation for Tableau](https://github.com/rmj9000/BankCustomerAttrition/blob/main/jupyter_notebooks/05_tableau-data.ipynb)
-* [06: Tableau Dashboard](link to be added soon)
+* [06: Tableau Dashboard](https://public.tableau.com/shared/GMW47YQH9?:display_count=n&:origin=viz_share_link)
 * [07: Raw Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/raw/bank_customer_attrition_insights_data.csv)
 * [08: Cleaned Data](https://github.com/rmj9000/BankCustomerAttrition/blob/main/data/inputs/cleaned_bank_data.csv)
 
@@ -19,8 +19,8 @@
 * The data is sourced from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and contains many routes of inquiry for why customers at banks attrite. 
 
 ## Contributers
-### Team name : *The Pandas*
-### Team members
+
+
 * Project Manager - [Ronnie](https://github.com/rmj9000) 
 * Data Architect - [Kabira Sharpe](https://github.com/ksharpe-byte)
 * Data Analyst - [Jane Weightman](https://github.com/Janeweightman)
@@ -77,7 +77,7 @@ We suspect that some customers will hop from bank to bank to take adantage of si
  ### H3: Customers with shorter tenure at the bank are more likely to attrite
  **For Hypothesis 3 we used a Mann-Whitney U Test.**
  ![hypothesi3test](images/hypothesis3test.png)
- 
+
  The U-Statistic is 7955556.0, which suggests the two groups overlap significantly meaning there is little difference between them. The P-Value is 0.1729 which greater than the significance level. Indidcating the observed difference between Tenure and Attrition is not statistically significant. Thus we fail to reject the null hypothesis as there is no statistical significance.
 
 
@@ -93,8 +93,6 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * How was the data managed throughout the collection, processing, analysis and interpretation steps?
 * Why did you choose the research methodologies you used?
 
-## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
@@ -107,19 +105,23 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * To ensure data privacy we removed the 'Surnames' column of the dataset, as it contains personally identifiable information. 
 
 ## Dashboard Design
-* List all dashboard pages and their content, either blocks of information or widgets, like buttons, checkboxes, images, or any other item that your dashboard library supports.
-* Later, during the project development, you may revisit your dashboard plan to update a given feature (for example, at the beginning of the project you were confident you would use a given plot to display an insight but subsequently you used another plot type).
-* How were data insights communicated to technical and non-technical audiences?
-* Explain how the dashboard was designed to communicate complex data insights to different audiences. 
+**The Dashboard can be found [here](https://public.tableau.com/app/profile/shema.rahman/viz/shared/GMW47YQH9)**.
 
-## Unfixed Bugs
-* Please mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a significant variable to consider, paucity of time and difficulty understanding implementation are not valid reasons to leave bugs unfixed.
-* Did you recognise gaps in your knowledge, and how did you address them?
-* If applicable, include evidence of feedback received (from peers or instructors) and how it improved your approach or understanding.
+![Story board format](images/storyboard.png)
+
+Storyboard format was used for effective interactive story telling. 
+
+![filters](images/filterhackathon.png)
+
+Filters were used to enhance user interactivity. 
+
+![dashboard](images/dashboard.png)
+
+Images were collated at the final story tab for ease of comparison. 
+
 
 ## Development Roadmap
-* What challenges did you face, and what strategies were used to overcome these challenges?
-* What new skills or tools do you plan to learn next based on your project experience? 
+* We had issues with data types in Tableau for the exited variable, we had to change the data type to string manually in Tableau as it was incorrectly categoried as an integer. 
 
 
 ## Main Data Analysis Libraries
@@ -132,14 +134,12 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
 ## Credits 
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
+* [Copilot](https://copilot.microsoft.com/chats/29Q4jJBsA7BkBDH9Kqkve) for Tableau csv files
+* [Chat-GPT](https://chatgpt.com/) for help with Tableau Dashboard
+* [Copilot](https://copilot.microsoft.com/chats/29Q4jJBsA7BkBDH9Kqkve) for coding assistance & generating a summary for the hypothesis testing visualisations
+* [Code Institute LMS modules](https://learn.codeinstitute.net/ci_program/daai_9)
+* [Markdown Guide](https://www.markdownguide.org/)
 
-### Content 
-
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign-Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
-- The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
