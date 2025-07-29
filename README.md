@@ -113,7 +113,7 @@ Storyboard format was used for effective interactive story telling.
 
 ![filters](images/filterhackathon.png)
 
-Filters were used to enhave user interactivity. 
+Filters were used to enhance user interactivity. 
 
 ![dashboard](images/dashboard.png)
 
@@ -134,9 +134,11 @@ Images were collated at the final story tab for ease of comparison.
 
 ## Credits 
 
-* In this section, you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-* You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
+* [Copilot](https://copilot.microsoft.com/chats/29Q4jJBsA7BkBDH9Kqkve) for Tableau csv files
+* [Chat-GPT](https://chatgpt.com/) for help with Tableau Dashboard
+* [Copilot](https://copilot.microsoft.com/chats/29Q4jJBsA7BkBDH9Kqkve) for coding assistance & generating a summary for the hypothesis testing visualisations
+* [Code Institute LMS modules](https://learn.codeinstitute.net/ci_program/daai_9)
+* [Markdown Guide](https://www.markdownguide.org/)
 
 
 ### Media
