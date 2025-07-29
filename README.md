@@ -86,19 +86,9 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 ## Project Plan
 **To aid in planning we used a [Github project board](https://github.com/users/rmj9000/projects/8/views/1)**
 ![project board](images/projectplanhackathon.png)
-
 * Using a project board allowed us to assisgn tasks to each team member in an organised manner
+* Regular meetings on Microsoft teams were used to ensure effective communication
 
-* Outline the high-level steps taken for the analysis.
-* How was the data managed throughout the collection, processing, analysis and interpretation steps?
-* Why did you choose the research methodologies you used?
-
-
-## Analysis techniques used
-* List the data analysis methods used and explain limitations or alternative approaches.
-* How did you structure the data analysis techniques. Justify your response.
-* Did the data limit you, and did you use an alternative approach to meet these challenges?
-* How did you use generative AI tools to help with ideation, design thinking and code optimisation?
 
 ## Ethical considerations
 * Financial data is highly sensitive and those working with such data have to ensure they are compliant with laws such as the [Financial Services and Markets Act 2000](https://www.legislation.gov.uk/ukpga/2000/8/contents).
