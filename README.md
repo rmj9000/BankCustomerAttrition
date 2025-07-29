@@ -93,8 +93,6 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 * How was the data managed throughout the collection, processing, analysis and interpretation steps?
 * Why did you choose the research methodologies you used?
 
-## The rationale to map the business requirements to the Data Visualisations
-* List your business requirements and a rationale to map them to the Data Visualisations
 
 ## Analysis techniques used
 * List the data analysis methods used and explain limitations or alternative approaches.
