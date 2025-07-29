@@ -38,7 +38,6 @@ Reward points often reflect transaction activity and customer engagement. If cus
 
 *Points Earned vs. Attrition*
 * T-test: Compares the means of two groups (e.g., attrited vs. existing customers). Assumes normal distribution.
-* Mann-Whitney U test: Non-parametric alternative to the t-test. Compares medians and ranks — useful when data isn’t normally distributed.
 
 
 ### Hypothesis 2: Credit card customers with lower credit scores are more likely to attrite.
@@ -48,7 +47,7 @@ Lower credit scores may indicate financial instability or limited access to bank
 
 *Credit Score vs. Attrition*
 * Correlation analysis: Measures the strength and direction of association between two variables (e.g., credit score and attrition flag).
-* Logistic regression: A predictive statistical model that estimates the probability of a binary outcome (e.g., attrition) based on one or more predictors (e.g., credit score).
+* Logistic regression on a Scatter Plot: A predictive statistical model that estimates the probability of a binary outcome (e.g., attrition) based on one or more predictors (e.g., credit score).
 
 
 ### Hypothesis 3: Customers with shorter tenure at the bank are more likely to attrite.
@@ -58,7 +57,7 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
 *Tenure vs. Attrition*
 * T-test / Mann-Whitney U test: Again, used to compare tenure between groups.
-* Histograms / Boxplots: While visualisations themselves aren’t statistical tests, they support statistical interpretation by showing distribution patterns.
+* Boxplot: While visualisations themselves aren’t statistical tests, they support statistical interpretation by showing distribution patterns.
 
 
 ## Hypothesis Testing
