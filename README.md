@@ -122,4 +122,4 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
 
 ## Acknowledgements (optional)
-* Thank the people who provided support through this project.
+* A special thanks to all the tutors at Code Insitute and to all our class mates! We wish everyone the best following our final Code Institute project. 
