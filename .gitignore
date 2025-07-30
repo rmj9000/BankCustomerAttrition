@@ -11,3 +11,9 @@ kaggle.json
 .venv/
 # Generated Tableau data files (uncomment to ignore)
 # data/outputs/hyp*_tableau.csv
+
+# Tableau temporary and backup files
+~*.twbr
+*.twbr
+*.tbm
+~*.tbm
