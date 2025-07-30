@@ -1,6 +1,6 @@
 # Bank Customer Attrition Analysis
 
-**Bank Customer Attrition Analysis** is a group project with the aim of identifying reasons why bank customers leave. Our aim to help banks increase their customer retention rates by exploring the reasons and factors that result in customer loss. 
+**Bank Customer Attrition Analysis** is a group project with the aim of identifying reasons why bank customers leave. Our is aim to help banks increase their customer retention rates by exploring the reasons and factors that result in customer loss. 
 
 # ![Banner image](images/bannerimagehackathon.png)
 
@@ -18,7 +18,7 @@
 ## Dataset Content
 * The data is sourced from [Kaggle](https://www.kaggle.com/datasets/marusagar/bank-customer-attrition-insights) and contains many routes of inquiry for why customers at banks attrite. 
 
-## Contributers
+## Contributors
 
 
 * Project Manager - [Ronnie](https://github.com/rmj9000) 
@@ -51,7 +51,7 @@ Lower credit scores may indicate financial instability or limited access to bank
 
 
 ### Hypothesis 3: Customers with shorter tenure at the bank are more likely to attrite.
-We suspect that some customers will hop from bank to bank to take adantage of signup bonuses. Furthermore, if newer customers are more prone to leaving, it may signal issues with onboarding, early experience, or unmet expectations. This insight is crucial for improving customer retention strategies during the first few months of engagement
+We suspect that some customers will hop from bank to bank to take advantage of signup bonuses. Furthermore, if newer customers are more prone to leaving, it may signal issues with onboarding, early experience, or unmet expectations. This insight is crucial for improving customer retention strategies during the first few months of engagement
 
 #### How we plan to validate:
 
@@ -68,25 +68,25 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
  With a T-Statistic of -0.46 and P-Value of 0.64 we fail to reject the null hypothesis, therefore we must conclude that fewer customer reward points does not result in higher rates of attrition. 
  ### H2: Credit card customers with lower credit scores are more likely to attrite
- **For the second hypothesis we used a Pearsons Correlation.**
+ **For the second hypothesis we used a Pearson's Correlation.**
 
  ![hypothesis2test](images/hypothesis2test.png)
 
- The correlation coefficent is -0.0268 which indicates there is a weak negative correlation between Credit Score and Exited variables. With a P-Value of 0.007 which indicates the result is statistically significant. We must reject the null hypothesis and accept that credit score is a factor in attrition rate. 
+ The correlation coefficient is -0.0268 which indicates there is a weak negative correlation between Credit Score and Exited variables. With a P-Value of 0.007 which indicates the result is statistically significant. We must reject the null hypothesis and accept that credit score is a factor in attrition rate. 
 
  ### H3: Customers with shorter tenure at the bank are more likely to attrite
  **For Hypothesis 3 we used a Mann-Whitney U Test.**
  ![hypothesi3test](images/hypothesis3test.png)
 
- The U-Statistic is 7955556.0, which suggests the two groups overlap significantly meaning there is little difference between them. The P-Value is 0.1729 which greater than the significance level. Indidcating the observed difference between Tenure and Attrition is not statistically significant. Thus we fail to reject the null hypothesis as there is no statistical significance.
+ The U-Statistic is 7955556.0, which suggests the two groups overlap significantly meaning there is little difference between them. The P-Value is 0.1729 which is greater than the significance level. Indicating the observed difference between Tenure and Attrition is not statistically significant. Thus we fail to reject the null hypothesis as there is no statistical significance.
 
 ## Recommendations
 
 Only hypothesis 2 'credit card customers with lower credit scores are more likely to attrite' generated statistically significant results. 
 
-* **Recommendation 1:** Have more stringent checks on credit risk before giving customers access to credit cards. If you prevent high risk individuals from getting credit cards with your bank, this could result them being less likely to attrite. 
+* **Recommendation 1:** Have more stringent checks on credit risk before giving customers access to credit cards. If you prevent high risk individuals from getting credit cards with your bank, this could result in them being less likely to attrite. 
 
-* **Recommendation 2:** Implement machine learning in banking apps that flag if an indiviual's credit score is getting too low, and give that individual practical financial advice to stop their credit score falling.
+* **Recommendation 2:** Implement machine learning in banking apps that flag if an individual's credit score is getting too low, and give that individual practical financial advice to stop their credit score falling.
 
 
 
@@ -118,7 +118,7 @@ Images were collated at the final story tab for ease of comparison.
 
 
 ## Development Roadmap
-* We had issues with data types in Tableau for the exited variable, we had to change the data type to string manually in Tableau as it was incorrectly categoried as an integer. 
+* We had issues with data types in Tableau for the exited variable, we had to change the data type to string manually in Tableau as it was incorrectly categorised as an integer. 
 
 
 ## Main Data Analysis Libraries
@@ -145,4 +145,4 @@ Images were collated at the final story tab for ease of comparison.
 
 
 ## Acknowledgements
-* A special thanks to all the tutors at Code Insitute and to all our class mates! We wish everyone the best following our final Code Institute project. 
+* A special thanks to all the tutors at Code Institute and to all our class mates! We wish everyone the best following our final Code Institute project. 
