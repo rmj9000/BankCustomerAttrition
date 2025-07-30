@@ -82,11 +82,11 @@ We suspect that some customers will hop from bank to bank to take adantage of si
 
 ## Recommendations
 
-Only hypothesis 2 'credit card customers with lower credit scores are more likely to attrite' generated statististically significant results. 
+Only hypothesis 2 'credit card customers with lower credit scores are more likely to attrite' generated statistically significant results. 
 
 * **Recommendation 1:** Have more stringent checks on credit risk before giving customers access to credit cards. If you prevent high risk individuals from getting credit cards with your bank, this could result them being less likely to attrite. 
 
-* **Recommentation 2:** Implement machine learning in banking apps that flag if an indiviual's credit score is getting too low, and give that individual practical financial advice to stop their credit score falling.
+* **Recommendation 2:** Implement machine learning in banking apps that flag if an indiviual's credit score is getting too low, and give that individual practical financial advice to stop their credit score falling.
 
 
 
