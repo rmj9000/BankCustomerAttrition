@@ -93,8 +93,8 @@ Only hypothesis 2 'credit card customers with lower credit scores are more likel
 ## Project Plan
 **To aid in planning we used a [Github project board](https://github.com/users/rmj9000/projects/8/views/1)**
 ![project board](images/projectplanhackathon.png)
-* Using a project board allowed us to assisgn tasks to each team member in an organised manner
-* Regular meetings on Microsoft teams were used to ensure effective communication
+* Using a project board allowed us to assign tasks to each team member in an organised manner
+* Regular meetings on Google Meets were used to ensure effective and regular communication, brainstorming sessions and completing tasks as a team.
 
 
 ## Ethical considerations
